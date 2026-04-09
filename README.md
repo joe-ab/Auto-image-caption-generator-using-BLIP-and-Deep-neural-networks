@@ -1,0 +1,2 @@
+# Auto-image-caption-generator-using-BLIP-and-Deep-neural-networks
+The Automatic Image Caption Generator is a computer vision–based system designed to generate meaningful textual descriptions for images automatically. This project utilizes the pre-trained BLIP (Bootstrapping Language-Image Pretraining) model combined with an Artificial Neural Network (ANN) framework to produce accurate and context-aware captions.
